@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\M1\\C#\\MvcFoad2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D77A735-678A-49F2-AD05-104D3497FC22}|Webform2024\\Webform2024.csproj|D:\\M1\\C#\\MvcFoad2024\\webform2024\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{3D77A735-678A-49F2-AD05-104D3497FC22}|Webform2024\\Webform2024.csproj|d:\\m1\\c#\\mvcfoad2024\\webform2024\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{3D77A735-678A-49F2-AD05-104D3497FC22}|Webform2024\\Webform2024.csproj|solutionrelative:webform2024\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
@@ -11,15 +11,15 @@
       "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D77A735-678A-49F2-AD05-104D3497FC22}|Webform2024\\Webform2024.csproj|d:\\m1\\c#\\mvcfoad2024\\webform2024\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D77A735-678A-49F2-AD05-104D3497FC22}|Webform2024\\Webform2024.csproj|D:\\M1\\C#\\MvcFoad2024\\webform2024\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D77A735-678A-49F2-AD05-104D3497FC22}|Webform2024\\Webform2024.csproj|solutionrelative:webform2024\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|d:\\m1\\c#\\mvcfoad2024\\mvcfoad2024\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|D:\\M1\\C#\\MvcFoad2024\\mvcfoad2024\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D77A735-678A-49F2-AD05-104D3497FC22}|Webform2024\\Webform2024.csproj|d:\\m1\\c#\\mvcfoad2024\\webform2024\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{3D77A735-678A-49F2-AD05-104D3497FC22}|Webform2024\\Webform2024.csproj|D:\\M1\\C#\\MvcFoad2024\\webform2024\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3D77A735-678A-49F2-AD05-104D3497FC22}|Webform2024\\Webform2024.csproj|solutionrelative:webform2024\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
