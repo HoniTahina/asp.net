@@ -116,3 +116,5 @@ D:\M1\C#\MvcFoad2024\MvcFoad2024\obj\Debug\MvcFoad2024.csproj.CoreCompileInputs.
 D:\M1\C#\MvcFoad2024\MvcFoad2024\obj\Debug\MvcFoad2.FC784760.Up2Date
 D:\M1\C#\MvcFoad2024\MvcFoad2024\obj\Debug\MvcFoad2024.dll
 D:\M1\C#\MvcFoad2024\MvcFoad2024\obj\Debug\MvcFoad2024.pdb
+D:\M1\C#\MvcFoad2024\MvcFoad2024\obj\Debug\MvcFoad2024.Migrations.InitialCreate.resources
+D:\M1\C#\MvcFoad2024\MvcFoad2024\obj\Debug\MvcFoad2024.csproj.GenerateResource.cache

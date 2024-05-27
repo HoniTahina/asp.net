@@ -3,7 +3,43 @@
   "WorkspaceRootPath": "D:\\M1\\C#\\MvcFoad2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D77A735-678A-49F2-AD05-104D3497FC22}|Webform2024\\Webform2024.csproj|d:\\m1\\c#\\mvcfoad2024\\webform2024\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|d:\\m1\\c#\\mvcfoad2024\\mvcfoad2024\\migrations\\202405271214254_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\migrations\\202405271214254_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|d:\\m1\\c#\\mvcfoad2024\\mvcfoad2024\\models\\bdpartagememoirecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\models\\bdpartagememoirecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|D:\\M1\\C#\\MvcFoad2024\\mvcfoad2024\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|D:\\M1\\C#\\MvcFoad2024\\mvcfoad2024\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|d:\\m1\\c#\\mvcfoad2024\\mvcfoad2024\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|d:\\m1\\c#\\mvcfoad2024\\mvcfoad2024\\models\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\models\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|D:\\M1\\C#\\MvcFoad2024\\mvcfoad2024\\models\\memoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\models\\memoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|d:\\m1\\c#\\mvcfoad2024\\mvcfoad2024\\models\\memoireauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\models\\memoireauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|d:\\m1\\c#\\mvcfoad2024\\mvcfoad2024\\models\\commentaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\models\\commentaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D77A735-678A-49F2-AD05-104D3497FC22}|Webform2024\\Webform2024.csproj|D:\\M1\\C#\\MvcFoad2024\\webform2024\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{3D77A735-678A-49F2-AD05-104D3497FC22}|Webform2024\\Webform2024.csproj|solutionrelative:webform2024\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
@@ -30,50 +66,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\Webform2024\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "Webform2024\\App_Start\\BundleConfig.cs",
-              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\Webform2024\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "Webform2024\\App_Start\\BundleConfig.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "202405271214254_InitialCreate.cs",
+              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Migrations\\202405271214254_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MvcFoad2024\\Migrations\\202405271214254_InitialCreate.cs",
+              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Migrations\\202405271214254_InitialCreate.cs",
+              "RelativeToolTip": "MvcFoad2024\\Migrations\\202405271214254_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T15:40:21.263Z",
+              "WhenOpened": "2024-05-27T12:14:32.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Bundle.config",
-              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\Webform2024\\Bundle.config",
-              "RelativeDocumentMoniker": "Webform2024\\Bundle.config",
-              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\Webform2024\\Bundle.config",
-              "RelativeToolTip": "Webform2024\\Bundle.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-06T15:28:55.42Z",
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Role.cs",
+              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Models\\Role.cs",
+              "RelativeToolTip": "MvcFoad2024\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:45:59.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "MvcFoad2024\\App_Start\\BundleConfig.cs",
-              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "MvcFoad2024\\App_Start\\BundleConfig.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwBgAAAAMAAAA",
+              "DocumentIndex": 5,
+              "Title": "Consultation.cs",
+              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Models\\Consultation.cs",
+              "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Consultation.cs",
+              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Models\\Consultation.cs",
+              "RelativeToolTip": "MvcFoad2024\\Models\\Consultation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:33:30.361Z",
+              "WhenOpened": "2024-05-27T11:44:41.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BdPartagememoireContext.cs",
+              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Models\\BdPartagememoireContext.cs",
+              "RelativeDocumentMoniker": "MvcFoad2024\\Models\\BdPartagememoireContext.cs",
+              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Models\\BdPartagememoireContext.cs",
+              "RelativeToolTip": "MvcFoad2024\\Models\\BdPartagememoireContext.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwCcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:26:47.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MvcFoad2024\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MvcFoad2024\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:59:06.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Memoire.cs",
+              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Models\\Memoire.cs",
+              "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Memoire.cs",
+              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Models\\Memoire.cs",
+              "RelativeToolTip": "MvcFoad2024\\Models\\Memoire.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:00:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemoireAuteur.cs",
+              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Models\\MemoireAuteur.cs",
+              "RelativeDocumentMoniker": "MvcFoad2024\\Models\\MemoireAuteur.cs",
+              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Models\\MemoireAuteur.cs",
+              "RelativeToolTip": "MvcFoad2024\\Models\\MemoireAuteur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:42:51.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Commentaire.cs",
+              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Models\\Commentaire.cs",
+              "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Commentaire.cs",
+              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Models\\Commentaire.cs",
+              "RelativeToolTip": "MvcFoad2024\\Models\\Commentaire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:43:40.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Utilisateur.cs",
+              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "MvcFoad2024\\Models\\Utilisateur.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:36:58.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MvcFoad2024\\Views\\Shared\\_Layout.cshtml",
@@ -81,12 +195,11 @@
               "RelativeToolTip": "MvcFoad2024\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T20:26:15.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:26:15.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Site.Master",
               "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\Webform2024\\Site.Master",
               "RelativeDocumentMoniker": "Webform2024\\Site.Master",
@@ -94,8 +207,43 @@
               "RelativeToolTip": "Webform2024\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-29T20:22:14.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:22:14.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "MvcFoad2024\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\MvcFoad2024\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "MvcFoad2024\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:33:30.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bundle.config",
+              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\Webform2024\\Bundle.config",
+              "RelativeDocumentMoniker": "Webform2024\\Bundle.config",
+              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\Webform2024\\Bundle.config",
+              "RelativeToolTip": "Webform2024\\Bundle.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-06T15:28:55.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\M1\\C#\\MvcFoad2024\\Webform2024\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Webform2024\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\M1\\C#\\MvcFoad2024\\Webform2024\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Webform2024\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:40:21.263Z"
             }
           ]
         }
