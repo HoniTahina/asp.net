@@ -19,21 +19,17 @@ namespace MvcFoad2024.Models
             public string Prenom { get; set; }
             [Display(Name = "Telephone"), Required(ErrorMessage = "*"), MaxLength(200, ErrorMessage = "Trop long")]
             public string Telephone { get; set; }
-            [Display(Name = "email"), Required(ErrorMessage = "*"), MaxLength(200, ErrorMessage = "Trop long")]
-            public string email { get; set; }
-            [Display(Name = "mot de passe"), Required(ErrorMessage = "*"), MaxLength(10, ErrorMessage = "Trop long")]
+            [Display(Name = "Email"), Required(ErrorMessage = "*"), MaxLength(200, ErrorMessage = "Trop long"), DataType(DataType.EmailAddress)]
+            public string Email { get; set; }
+            [Display(Name = "mot de passe"), Required(ErrorMessage = "*"), MaxLength(10, ErrorMessage = "Trop long"), DataType(DataType.Password)]
             public string motDePasse { get; set; }
             
             [Display(Name = "Matricule"), Required(ErrorMessage = "*"), MaxLength(200, ErrorMessage = "Trop long")]
             public string Matricule { get; set; }
             [Display(Name = "Etat"), Required(ErrorMessage = "*"), MaxLength(40, ErrorMessage = "Trop long")]
             public string Etat { get; set; }
-        [Display(Name = "Specialite"), Required(ErrorMessage = "*"), MaxLength(100, ErrorMessage = "La taille maximale est de 100 caractères.")]
-        public string Specialite { get; set; }
-
-        [ForeignKey("Role")]
-            public int RoleId { get; set; }
-            public Role Role { get; set; }
+            [Display(Name = "Specialite"), Required(ErrorMessage = "*"), MaxLength(100, ErrorMessage = "La taille maximale est de 100 caractères.")]
+            public string Specialite { get; set; }
 
             public ICollection<MemoireAuteur> MemoireAuteurs { get; set; }
             public ICollection<Commentaire> Commentaires { get; set; }

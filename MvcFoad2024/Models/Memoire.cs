@@ -31,12 +31,10 @@ namespace MvcFoad2024.Models
         [Display(Name = "Verdict"), Required(ErrorMessage = "*"), MaxLength(100, ErrorMessage = "Trop long")]
         public string verdict {  get; set; }
 
-        public int DocumentId { get; set; }
-        public Document Document { get; set; }
-
-        public int UtilisateurId { get; set; }
-        public Utilisateur Utilisateur { get; set; }
-
+        // public virtual Document Document {  get; set; }
+        public int? IdBibliothecaire { get; set; }
+        [ForeignKey("IdBibliothecaire")]
+        public virtual Bibliothecaire Bibliothecaire { get; set; }
         public ICollection<MemoireAuteur> MemoireAuteurs { get; set; }
         public ICollection<Commentaire> Commentaires { get; set; }
         public ICollection<Consultation> Consultations { get; set; }

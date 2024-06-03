@@ -15,13 +15,12 @@ namespace MvcFoad2024.Models
 
         [Display(Name = "Appréciations"), Required(ErrorMessage = "*"), MaxLength(2000, ErrorMessage = "La taille maximale est de 2000 caractères.")]
         public string Appreciation { get; set; }
-
-        [ForeignKey("Memoire")]
-        public int MemoireId { get; set; }
+        public int? IdMemoire { get; set; }
+        [ForeignKey("IdMemoire")]
         public Memoire Memoire { get; set; }
+        public int? IdLecteur { get; set; }
 
-        [ForeignKey("Utilisateur")]
-        public int UtilisateurId { get; set; }
-        public Utilisateur Utilisateur { get; set; }
+        [ForeignKey("IdLecteur")]
+        public virtual Lecteur Lecteur { get; set; }
     }
 }

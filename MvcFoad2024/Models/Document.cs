@@ -12,9 +12,14 @@ namespace MvcFoad2024.Models
     {
         [Key]
         public int Id { get; set; }
+        [Display(Name = "Nom"), Required(ErrorMessage = "*"), MaxLength(100, ErrorMessage = "Trop long")]
+        public string Nom { get; set; }
+        [Display(Name = "Extension"), Required(ErrorMessage = "*"), MaxLength(100, ErrorMessage = "Trop long")]
         public string Extension { get; set; }
-        public byte[] Contenu { get; set; }
 
-        public ICollection<Memoire> Memoires { get; set; }
+        public int? IdMemoire { get; set; }
+        [ForeignKey("IdMemoire")]
+        public virtual Memoire Memoire { get; set; }
+
     }
 }

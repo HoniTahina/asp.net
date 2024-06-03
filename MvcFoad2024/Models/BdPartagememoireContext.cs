@@ -16,73 +16,16 @@ namespace MvcFoad2024.Models
         }
         public DbSet<Memoire> memoires { get; set; }
         public DbSet<Utilisateur> utilisateurs { get; set; }
-        public DbSet<Role> roles { get; set; }
         public DbSet<MemoireAuteur> memoireAuteurs { get; set; }
         public DbSet<Document> documents { get; set; }
         public DbSet<Commentaire> commentaires { get; set; }
         public DbSet<Consultation> consultations { get; set; }
+        public DbSet<Auteur> auteurs { get; set; }
+        public DbSet<Lecteur> lecteurs { get; set; }
+        public DbSet<Bibliothecaire> bibliothecaires { get; set; }
+        public DbSet<Expert> experts { get; set; }
 
-        protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        {
-            base.OnModelCreating(modelBuilder);
-
-            modelBuilder.Entity<MemoireAuteur>()
-                .HasKey(ma => new { ma.MemoireId, ma.UtilisateurId });
-
-            modelBuilder.Entity<MemoireAuteur>()
-           .HasRequired(ma => ma.Memoire)
-           .WithMany(m => m.MemoireAuteurs)
-           .HasForeignKey(ma => ma.MemoireId)
-           .WillCascadeOnDelete(false);
-
-            modelBuilder.Entity<MemoireAuteur>()
-                .HasRequired(ma => ma.Utilisateur)
-                .WithMany(u => u.MemoireAuteurs)
-                .HasForeignKey(ma => ma.UtilisateurId)
-                .WillCascadeOnDelete(false);
-
-            modelBuilder.Entity<Commentaire>()
-                .HasRequired(c => c.Utilisateur)
-                .WithMany(u => u.Commentaires)
-                .HasForeignKey(c => c.UtilisateurId)
-                .WillCascadeOnDelete(false);
-
-            modelBuilder.Entity<Commentaire>()
-                .HasRequired(c => c.Memoire)
-                .WithMany(m => m.Commentaires)
-                .HasForeignKey(c => c.MemoireId)
-                .WillCascadeOnDelete(false);
-
-            modelBuilder.Entity<Consultation>()
-                .HasRequired(co => co.Utilisateur)
-                .WithMany(u => u.Consultations)
-                .HasForeignKey(co => co.UtilisateurId)
-                .WillCascadeOnDelete(false);
-
-            modelBuilder.Entity<Consultation>()
-                .HasRequired(co => co.Memoire)
-                .WithMany(m => m.Consultations)
-                .HasForeignKey(co => co.MemoireId)
-                .WillCascadeOnDelete(false);
-
-            modelBuilder.Entity<Memoire>()
-                .HasRequired(m => m.Utilisateur)
-                .WithMany(u => u.Memoires)
-                .HasForeignKey(m => m.UtilisateurId)
-                .WillCascadeOnDelete(false);
-
-            modelBuilder.Entity<Memoire>()
-                .HasRequired(m => m.Document)
-                .WithMany(d => d.Memoires)
-                .HasForeignKey(m => m.DocumentId)
-                .WillCascadeOnDelete(false);
-
-            modelBuilder.Entity<Utilisateur>()
-                .HasRequired(u => u.Role)
-                .WithMany(r => r.Utilisateurs)
-                .HasForeignKey(u => u.RoleId)
-                .WillCascadeOnDelete(false);
-        }
+       
 
     }
 
