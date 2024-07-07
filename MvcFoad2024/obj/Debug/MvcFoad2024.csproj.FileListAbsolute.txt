@@ -238,3 +238,7 @@ E:\c\MvcFoad2024\MvcFoad2024\MvcFoad2024\obj\Debug\MvcFoad2024.csproj.CoreCompil
 E:\c\MvcFoad2024\MvcFoad2024\MvcFoad2024\obj\Debug\MvcFoad2.FC784760.Up2Date
 E:\c\MvcFoad2024\MvcFoad2024\MvcFoad2024\obj\Debug\MvcFoad2024.dll
 E:\c\MvcFoad2024\MvcFoad2024\MvcFoad2024\obj\Debug\MvcFoad2024.pdb
+E:\c\MvcFoad2024\MvcFoad2024\MvcFoad2024\bin\PagedList.dll
+E:\c\MvcFoad2024\MvcFoad2024\MvcFoad2024\bin\PagedList.Mvc.dll
+E:\c\MvcFoad2024\MvcFoad2024\MvcFoad2024\bin\PagedList.xml
+E:\c\MvcFoad2024\MvcFoad2024\MvcFoad2024\bin\PagedList.Mvc.xml

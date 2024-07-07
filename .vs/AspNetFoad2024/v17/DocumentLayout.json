@@ -3,39 +3,51 @@
   "WorkspaceRootPath": "E:\\c\\MvcFoad2024\\MvcFoad2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|e:\\c\\mvcfoad2024\\mvcfoad2024\\mvcfoad2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|e:\\c\\mvcfoad2024\\mvcfoad2024\\mvcfoad2024\\views\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\views\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|e:\\c\\mvcfoad2024\\mvcfoad2024\\mvcfoad2024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|e:\\c\\mvcfoad2024\\mvcfoad2024\\mvcfoad2024\\controllers\\auteurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\controllers\\auteurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|e:\\c\\mvcfoad2024\\mvcfoad2024\\mvcfoad2024\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|E:\\c\\MvcFoad2024\\MvcFoad2024\\mvcfoad2024\\views\\auteurs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\views\\auteurs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|E:\\c\\MvcFoad2024\\MvcFoad2024\\mvcfoad2024\\models\\auteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\models\\auteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|E:\\c\\MvcFoad2024\\MvcFoad2024\\mvcfoad2024\\views\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\views\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|E:\\c\\MvcFoad2024\\MvcFoad2024\\mvcfoad2024\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|e:\\c\\mvcfoad2024\\mvcfoad2024\\mvcfoad2024\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|E:\\c\\MvcFoad2024\\MvcFoad2024\\mvcfoad2024\\views\\auteurs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\views\\auteurs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|E:\\c\\MvcFoad2024\\MvcFoad2024\\mvcfoad2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|E:\\c\\MvcFoad2024\\MvcFoad2024\\mvcfoad2024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|E:\\c\\MvcFoad2024\\MvcFoad2024\\mvcfoad2024\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|e:\\c\\mvcfoad2024\\mvcfoad2024\\mvcfoad2024\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|E:\\c\\MvcFoad2024\\MvcFoad2024\\mvcfoad2024\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|e:\\c\\mvcfoad2024\\mvcfoad2024\\mvcfoad2024\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|E:\\c\\MvcFoad2024\\MvcFoad2024\\mvcfoad2024\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|e:\\c\\mvcfoad2024\\mvcfoad2024\\mvcfoad2024\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|E:\\c\\MvcFoad2024\\MvcFoad2024\\mvcfoad2024\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -53,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|E:\\c\\MvcFoad2024\\MvcFoad2024\\mvcfoad2024\\models\\expert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\models\\expert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|E:\\c\\MvcFoad2024\\MvcFoad2024\\mvcfoad2024\\models\\auteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|solutionrelative:mvcfoad2024\\models\\auteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0573689-1608-40AA-9ED6-C9884C017CFA}|MvcFoad2024\\MvcFoad2024.csproj|E:\\c\\MvcFoad2024\\MvcFoad2024\\mvcfoad2024\\models\\memoireauteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -108,27 +116,63 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Views\\Auteurs\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcFoad2024\\Views\\Auteurs\\Index.cshtml",
+              "ToolTip": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Views\\Auteurs\\Index.cshtml",
+              "RelativeToolTip": "MvcFoad2024\\Views\\Auteurs\\Index.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAiwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T17:49:27.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuteursController.cs",
+              "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Controllers\\AuteursController.cs",
+              "RelativeDocumentMoniker": "MvcFoad2024\\Controllers\\AuteursController.cs",
+              "ToolTip": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Controllers\\AuteursController.cs",
+              "RelativeToolTip": "MvcFoad2024\\Controllers\\AuteursController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:37:10.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Views\\Auteurs\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcFoad2024\\Views\\Auteurs\\Create.cshtml",
+              "ToolTip": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Views\\Auteurs\\Create.cshtml",
+              "RelativeToolTip": "MvcFoad2024\\Views\\Auteurs\\Create.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAF4AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T18:02:22.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcFoad2024\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcFoad2024\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAAABABAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T19:53:23.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Views\\Manage\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcFoad2024\\Views\\Manage\\Index.cshtml",
               "ToolTip": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Views\\Manage\\Index.cshtml",
               "RelativeToolTip": "MvcFoad2024\\Views\\Manage\\Index.cshtml",
               "ViewState": "AQIAACgAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T19:53:36.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MvcFoad2024\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MvcFoad2024\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkBAAAAAAAAAAAAABcBAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T19:53:23.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T19:53:36.344Z"
             },
             {
               "$type": "Document",
@@ -138,14 +182,26 @@
               "RelativeDocumentMoniker": "MvcFoad2024\\App_Start\\BundleConfig.cs",
               "ToolTip": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\App_Start\\BundleConfig.cs",
               "RelativeToolTip": "MvcFoad2024\\App_Start\\BundleConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T19:46:35.528Z",
+              "WhenOpened": "2024-06-10T19:46:35.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auteur.cs",
+              "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Models\\Auteur.cs",
+              "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Auteur.cs",
+              "ToolTip": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Models\\Auteur.cs",
+              "RelativeToolTip": "MvcFoad2024\\Models\\Auteur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:23:39.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\App_Start\\RouteConfig.cs",
@@ -153,12 +209,11 @@
               "RelativeToolTip": "MvcFoad2024\\App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T19:46:30.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T19:46:30.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Startup.Auth.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\App_Start\\Startup.Auth.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\App_Start\\Startup.Auth.cs",
@@ -166,25 +221,11 @@
               "RelativeToolTip": "MvcFoad2024\\App_Start\\Startup.Auth.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T19:46:24.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T19:46:24.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuteursController.cs",
-              "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Controllers\\AuteursController.cs",
-              "RelativeDocumentMoniker": "MvcFoad2024\\Controllers\\AuteursController.cs",
-              "ToolTip": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Controllers\\AuteursController.cs",
-              "RelativeToolTip": "MvcFoad2024\\Controllers\\AuteursController.cs",
-              "ViewState": "AQIAAGUAAAAAAAAAAAAAAHMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T19:37:10.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcFoad2024\\Views\\Home\\Index.cshtml",
@@ -192,12 +233,11 @@
               "RelativeToolTip": "MvcFoad2024\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T18:40:22.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T18:40:22.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "DocumentsController.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Controllers\\DocumentsController.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\Controllers\\DocumentsController.cs",
@@ -205,12 +245,11 @@
               "RelativeToolTip": "MvcFoad2024\\Controllers\\DocumentsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T19:34:22.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T19:34:22.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Utilisateur.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Models\\Utilisateur.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Utilisateur.cs",
@@ -218,12 +257,11 @@
               "RelativeToolTip": "MvcFoad2024\\Models\\Utilisateur.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAYwCMAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T17:23:55.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T17:23:55.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Memoire.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Models\\Memoire.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Memoire.cs",
@@ -236,18 +274,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Auteur.cs",
-              "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Models\\Auteur.cs",
-              "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Auteur.cs",
-              "ToolTip": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Models\\Auteur.cs",
-              "RelativeToolTip": "MvcFoad2024\\Models\\Auteur.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T17:23:39.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Lecteur.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Models\\Lecteur.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Lecteur.cs",
@@ -259,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Expert.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Models\\Expert.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Expert.cs",
@@ -271,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Document.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Models\\Document.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Document.cs",
@@ -283,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Bibliothecaire.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Models\\Bibliothecaire.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Bibliothecaire.cs",
@@ -295,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "MemoireAuteur.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Models\\MemoireAuteur.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\Models\\MemoireAuteur.cs",
@@ -307,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Consultation.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Models\\Consultation.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Consultation.cs",
@@ -319,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Commentaire.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Models\\Commentaire.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\Models\\Commentaire.cs",
@@ -331,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Configuration.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\Migrations\\Configuration.cs",
@@ -343,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "BdPartagememoireContext.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Models\\BdPartagememoireContext.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\Models\\BdPartagememoireContext.cs",
@@ -355,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "202405271214254_InitialCreate.cs",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Migrations\\202405271214254_InitialCreate.cs",
               "RelativeDocumentMoniker": "MvcFoad2024\\Migrations\\202405271214254_InitialCreate.cs",
@@ -367,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Web.config",
               "DocumentMoniker": "E:\\c\\MvcFoad2024\\MvcFoad2024\\MvcFoad2024\\Web.config",
               "RelativeDocumentMoniker": "MvcFoad2024\\Web.config",

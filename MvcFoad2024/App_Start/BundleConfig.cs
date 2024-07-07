@@ -45,7 +45,8 @@ namespace MvcFoad2024
                      "~/assets/vendor/quill/quill.bubble.css",
                      "~/assets/vendor/remixicon/remixicon.css",
                      "~/assets/vendor/simple-datatables/style.css",
-                     "~/assets/css/style.css"));
+                     "~/assets/css/style.css",
+                     "~/Content/PagedList.css")); 
         }
     }
 }
